@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cullen
 - 👀 I’m interested in Computer
-- 🌱 I’m currently learning Computer
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Computer,Front,operating system.
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
